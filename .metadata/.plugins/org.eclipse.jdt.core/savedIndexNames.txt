@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/sergiorosa/Desktop/Java-Lessons/.metadata/.plugins/org.eclipse.jdt.core
+3393987344.index
+3267993472.index
